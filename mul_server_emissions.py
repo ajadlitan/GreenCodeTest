@@ -6,7 +6,7 @@ from datetime import datetime
 import os
 from threading import Lock
 import logging
-#import wmi
+import wmi
 from dotenv import load_dotenv
 
 # Load environment variables
